@@ -1,0 +1,20 @@
+CiviCRM-Avery_5395_Letter_Badge
+================================
+
+Description
+-------------------------
+The php template file required to print out proper name badges with a logo on Avery 5395 Letter sized badge paper
+
+Requirements
+-------------------------
+CiviCRM
+
+Setup
+-------------------------
+Place the included file in <web root>/sites/all/modules/civicrm/CRM/Event/Badge/
+
+Author
+-------------------------
+Craig Vanderlinden (cvanderlinden)
+@cvanderlinden
+http://cvanderlinden.com
