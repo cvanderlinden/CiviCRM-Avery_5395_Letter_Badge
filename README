@@ -11,7 +11,7 @@ CiviCRM
 
 Setup
 -------------------------
-Place the included file in <web root>/sites/all/modules/civicrm/CRM/Event/Badge/
+Place the included file in <civicrm root>/CRM/Event/Badge/
 
 Author
 -------------------------
